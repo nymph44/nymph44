@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nymph44
 - 🧑‍🎓 I'm currently graduating as a Interaction Design at the Hanzehogeschool in Groningen 
 - 👀 I’m interested in making technology people love
-- 🌱 I’m currently learning to become an expert in front-end development and plan to invest in becomming a full-stack dev
+- 🌱 I’m currently learning to become an expert in front-end development and plan to invest in becoming a full-stack dev
 - 📫 How to reach me: ajn.janssen@gmail.com
