@@ -2,4 +2,4 @@
 - 🧑‍🎓 I'm currently graduating as a Interaction Design at the Hanzehogeschool in Groningen 
 - 👀 I’m interested in making technology people love
 - 🌱 I’m currently learning to become an expert in front-end development and plan to invest in becomming a full-stack dev
-- 📫 How to reach me on discord nymphaa#2030
+- 📫 How to reach me: ajn.janssen@gmail.com
